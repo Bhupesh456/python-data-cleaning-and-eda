@@ -1,5 +1,5 @@
-- **Python**
-- **Pandas**
-- **NumPy**
-- **Matplotlib**
-- **Jupyter Notebook**
+Python
+Pandas
+NumPy
+Matplotlib
+Jupyter Notebook
