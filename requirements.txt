@@ -1,5 +1,5 @@
-pandas 
-numpy
-matplotlib
-seaborn
-jupyter
+- **Python**
+- **Pandas**
+- **NumPy**
+- **Matplotlib**
+- **Jupyter Notebook**
