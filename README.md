@@ -173,12 +173,6 @@ The cleaned dataset is ready for further analysis and visualization.
 
 ---
 
-# 🔮 Future Improvements
-
-- Perform correlation analysis on numerical features.
-- Create interactive dashboards using Power BI or Tableau.
-- Build predictive machine learning models using the cleaned dataset.
-- Add additional business insights and visualizations.
 
 ---
 
