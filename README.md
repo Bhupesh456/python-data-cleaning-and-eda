@@ -115,11 +115,30 @@ The following visualizations were created:
 
 The project includes visualizations such as:
 
-- Department Count Chart
-- Department Distribution Pie Chart
-- Gender Count Chart
-- Salary Distribution Histogram
-- Salary Distribution by Department Box Plot
+## Department Count Chart
+<p align="center">
+  <img src="images/department_count_chart.png" width="500">
+</p>
+
+## Department Distribution Pie Chart
+<p align="center">
+  <img src="images/department_distribution_pie_chart.png" width="500">
+</p>
+
+## Gender Count Chart
+<p align="center">
+  <img src="images/Gender_count.png" width="500">
+</p>
+
+## Salary Distribution Histogram
+<p align="center">
+  <img src="images/histogram_by_salary.png" width="500">
+</p>
+
+## Salary Distribution by Department Box Plot
+<p align="center">
+  <img src="images/salary_by_department_boxplot.png" width="500">
+</p>
 
 ---
 
